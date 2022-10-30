@@ -1,0 +1,14 @@
+{
+  "short_name": "loser.city",
+  "name": "loser.city 👎",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "https://loser.city",
+  "background_color": "#cc00cc",
+  "theme_color": "#cc00cc"
+}
